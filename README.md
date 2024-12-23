@@ -14,8 +14,9 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo no meu dia a dia:
 - **Integração de APIs:** Experiência com consumo e desenvolvimento de APIs externas
 - **Configuração:** YAML
 
+
 ## 📫 Como Me Encontrar
-- **LinkedIn:** [Seu LinkedIn]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/mederafael/))
+- **LinkedIn:** [Rafael Medeiros]([https://www.linkedin.com/in/mederafael/](https://www.linkedin.com/in/mederafael/))
 - **Email:** mederafael@gmail.com
 
 Vamos colaborar e construir algo incrível juntos! 🚀
